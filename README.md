@@ -1,4 +1,4 @@
-<h1  align="center">Banco De Dados Resilia Educação </h1>
+<h1  align="center">📌Banco De Dados Resilia Educação📌</h1>
 
 
 <br>
@@ -46,4 +46,5 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 <br>
 
 > mySQL
+> <br>
 > wamp
