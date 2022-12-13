@@ -30,6 +30,20 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 
 <br>
 
+<b>Respostas</b>
+
+<br>
+
+> + Sim, as entidades variam de acordo com a escolha do cliente
+<br></br>
+> + alunos, turma, cursos, disciplina, professores. Varchat, text, int, tityint
+<br></br>
+> + Muitos para muitos(N:N) e um para muitos(1:N)
+
+
+
+<br>
+
 <b>Conhecimentos Adquiridos</b>
 
 <br>
@@ -47,5 +61,4 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 <br>
 
 > mySQL
-> <br>
-> wamp
+
