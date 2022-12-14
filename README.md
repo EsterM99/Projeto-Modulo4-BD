@@ -1,6 +1,6 @@
 <h1  align="center">📌Banco De Dados Resilia Educação📌</h1>
 
-<img align="center" width= "120%" src="banco de dados Ester.png">
+<img align="center" width= "120%" src="captura do BD Ester.png">
 
 <br>
 
@@ -36,7 +36,7 @@ banco de dados que vai armazenar seus cursos, turmas e alunos.
 
 > + Sim, as entidades variam de acordo com a escolha do cliente
 <br></br>
-> + alunos, turma, cursos, disciplina, professores. Varchat, text, int, tityint
+> + alunos, turma, cursos, disciplina, professores. Varchat, text, int, tityint, smallint.
 <br></br>
 > + Muitos para muitos(N:N) e um para muitos(1:N)
 
